@@ -1,0 +1,4 @@
+*.html text
+*.png binary
+*.pdf binary
+*.css text eol=lf
