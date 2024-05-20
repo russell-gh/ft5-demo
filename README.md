@@ -2,9 +2,4 @@
 
 I was changed!
 
-<<<<<<< HEAD
-
-XYZ
-=======
 ABC
->>>>>>> fix
